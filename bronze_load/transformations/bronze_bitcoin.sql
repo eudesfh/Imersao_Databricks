@@ -23,5 +23,3 @@ FROM cloud_files(
 	'cloudFiles.schemaEvolutionMode', 'addNewColumns'
 	)
 );
-
-	
