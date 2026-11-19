@@ -1,4 +1,4 @@
-CREATE OR REFRESH STREAMING LIVE TABLE sales_commodities
+CREATE OR REFRESH STREAMING LIVE TABLE bronze.sales_commodities
 TBLPROPERTIES ("quality" = "bronze")
 AS
 SELECT
